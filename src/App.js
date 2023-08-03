@@ -17,7 +17,7 @@ function App() {
       )}
       <h1>Welcome to Auth0 React App</h1>
     </div>
-  );
+  ); 
 }
 
 export default App;
